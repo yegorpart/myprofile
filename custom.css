@@ -1,0 +1,14 @@
+.over {
+  position: fixed;
+  left: 50%;
+  margin-left: -125px;
+  margin: 20px auto;
+  padding: 15px;
+}
+
+.over2 {
+  position: fixed;
+  left: 50%;
+  margin-left: -50px;
+  top: 600px;
+}
